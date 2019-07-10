@@ -18,7 +18,6 @@ const MOCKED_MOVIES_DATA = [
         posters: { thumbnail: "https://upload.wikimedia.org/wikipedia/commons/d/de/Bananavarieties.jpg" }
     }
 ];
-type Props = {};
 
 export default class AppContainer extends React.Component {
     constructor(props) {

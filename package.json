@@ -1,13 +1,14 @@
 {
-  "name": "AwesomeProject",
+  "name": "lln",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "start": "node node_modules/react-native/local-cli/cli.js start --port=8081",
     "test": "jest",
     "ios": "react-native run-ios"
   },
   "dependencies": {
+    "babel-preset-react-native": "^4.0.1",
     "react": "16.6.3",
     "react-native": "0.58.4",
     "react-native-gesture-handler": "^1.1.0",
