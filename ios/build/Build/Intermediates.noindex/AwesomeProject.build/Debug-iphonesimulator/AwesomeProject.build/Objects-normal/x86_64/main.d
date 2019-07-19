@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/liulina/Documents/webFeilds/AwesomeProject/ios/AwesomeProject/main.m \
-  /Users/liulina/Documents/webFeilds/AwesomeProject/ios/AwesomeProject/AppDelegate.h
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/AwesomeProject/main.m \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/AwesomeProject/AppDelegate.h

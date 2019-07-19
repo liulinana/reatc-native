@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Alert, AppRegistry, Platform, StyleSheet, Text, TouchableHighlight, TouchableOpacity, TouchableNativeFeedback, TouchableWithoutFeedback, View } from 'react-native';
+import { Alert, Button, Platform, StyleSheet, Text, TouchableHighlight, TouchableOpacity, TouchableNativeFeedback, TouchableWithoutFeedback, View } from 'react-native';
 
 export default class Touchables extends Component {
     _onPressButton() {
@@ -43,6 +43,10 @@ export default class Touchables extends Component {
                         <Text style={styles.buttonText}>Touchable with Long Press</Text>
                     </View>
                 </TouchableHighlight>
+                <Button
+                    onPress={() => this.props.navigation.goBack()}
+                    title="Go back home"
+                />
             </View>
         );
     }
@@ -51,7 +55,10 @@ export default class Touchables extends Component {
 const styles = StyleSheet.create({
     container: {
         paddingTop: 60,
-        alignItems: 'center'
+        alignItems: 'center',
+        backgroundColor: '#FFFFFF',
+        display: 'flex',
+        height: '100%'
     },
     button: {
         marginBottom: 30,

@@ -4,6 +4,8 @@ dependencies: \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/Surface/RCTSurfaceView+Internal.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/Surface/RCTSurfaceStage.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/Surface/RCTSurface.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/Surface/RCTSurfaceRootView.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Views/RCTView.h \

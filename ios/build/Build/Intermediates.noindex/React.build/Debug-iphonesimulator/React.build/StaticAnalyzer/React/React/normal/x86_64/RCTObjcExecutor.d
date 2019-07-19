@@ -2,6 +2,8 @@ dependencies: \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/CxxBridge/RCTObjcExecutor.mm \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/CxxBridge/RCTObjcExecutor.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTBridgeModule.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTInvalidating.h \

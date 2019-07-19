@@ -18,4 +18,9 @@ dependencies: \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h

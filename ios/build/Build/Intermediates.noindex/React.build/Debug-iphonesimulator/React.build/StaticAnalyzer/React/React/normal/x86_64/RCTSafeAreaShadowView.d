@@ -5,6 +5,8 @@ dependencies: \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Views/RCTLayout.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \

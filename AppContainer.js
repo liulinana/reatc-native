@@ -28,6 +28,13 @@ export default class AppContainer extends React.Component {
     return {
         title: 'Home',
         // headerTitle: <TitleImage />,
+        headerLeft:  (
+            <Button
+                onPress={() => navigation.navigate('MyModal')}
+                title="Info"
+                color="#fff"
+            />
+        ),
         headerBackTitle: "A",//自定义返回按钮
         headerRight: (
             <Button
@@ -95,9 +102,9 @@ export default class AppContainer extends React.Component {
                     }
                 />
                 <Button
-                    title="Go to ss"
+                    title="Go to Notifications"
                     onPress={
-                        () => this.props.navigation.navigate('ss',{
+                        () => this.props.navigation.navigate('Notifications',{
                             itemId: 86,
                             otherParam: 'anything you want here'
                         })

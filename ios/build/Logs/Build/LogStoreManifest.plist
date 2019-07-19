@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>logFormatVersion</key>
-	<integer>9</integer>
+	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>8CFFAAA4-25F2-4342-801A-DB2E28111495</key>
+		<key>5D5C3414-F776-4B9B-AE7A-E3C9EF7AC24E</key>
 		<dict>
 			<key>className</key>
 			<string>IDECommandLineBuildLog</string>
@@ -15,9 +15,12 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>8CFFAAA4-25F2-4342-801A-DB2E28111495.xcactivitylog</string>
-			<key>highLevelStatus</key>
-			<string>W</string>
+			<string>5D5C3414-F776-4B9B-AE7A-E3C9EF7AC24E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>AwesomeProject project</string>
 			<key>schemeIdentifier-schemeName</key>
@@ -27,13 +30,45 @@
 			<key>signature</key>
 			<string>Building project AwesomeProject with scheme AwesomeProject and configuration Debug</string>
 			<key>timeStartedRecording</key>
-			<real>574926740.93765903</real>
+			<real>585199867.572101</real>
 			<key>timeStoppedRecording</key>
-			<real>574926742.76260495</real>
+			<real>585199869.40558195</real>
 			<key>title</key>
 			<string>Building project AwesomeProject with scheme AwesomeProject and configuration Debug</string>
 			<key>uniqueIdentifier</key>
-			<string>8CFFAAA4-25F2-4342-801A-DB2E28111495</string>
+			<string>5D5C3414-F776-4B9B-AE7A-E3C9EF7AC24E</string>
+		</dict>
+		<key>5DDDDD53-818C-41F0-B33C-07261C77D715</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5DDDDD53-818C-41F0-B33C-07261C77D715.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AwesomeProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AwesomeProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AwesomeProject with scheme AwesomeProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>585144869.07137895</real>
+			<key>timeStoppedRecording</key>
+			<real>585144872.99181604</real>
+			<key>title</key>
+			<string>Building project AwesomeProject with scheme AwesomeProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5DDDDD53-818C-41F0-B33C-07261C77D715</string>
 		</dict>
 	</dict>
 </dict>

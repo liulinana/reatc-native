@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		ttlPScu2aFfpwfXJZSlYL0kb/JI=
+		/e5vUn39i3rD7cvQ/MDGp6cr8DQ=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
@@ -39,7 +39,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		19uLZL3G8fxlgOV2A3iXMu4W3FY=
+		y3USpwh7RpTNrcsYkDkW4ZAZ5ow=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -72,11 +72,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ttlPScu2aFfpwfXJZSlYL0kb/JI=
+			/e5vUn39i3rD7cvQ/MDGp6cr8DQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			BUHo6cv976TDDl+TYqu+JdeLixWXfRI+695KLXrJTp8=
+			oHRQdCBFFwm8CDBltUmb991HXzHwLAx6q1TuyXHWQyM=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
@@ -205,7 +205,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -236,24 +236,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -289,13 +277,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>

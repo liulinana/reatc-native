@@ -5,4 +5,6 @@ dependencies: \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Views/RCTBorderStyle.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Views/RCTComponent.h \
   /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Views/RCTPointerEvents.h \
-  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTDefines.h
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/liulina/Documents/webFeilds/RN/reatcNative/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h
